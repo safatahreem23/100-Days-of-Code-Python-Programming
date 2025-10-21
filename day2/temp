@@ -1,0 +1,6 @@
+Objective:
+To calculate a suggested tip amount based on the bill total and user's desired tip percentage
+  LOGIC:
+    tip amount = tip%/100  * bill amount
+    total amount = bill amount + tip amount
+    final amount = total amount/people
